@@ -1,3 +1,7 @@
 Beerfest
 Thugs life, the life of grelli
+<<<<<<< HEAD
 Elmó og Grelmó	
+=======
+The curious case of Birkir K�rason, life of a man child
+>>>>>>> e2d7bca6af9a308624d9d84756663a95dd19f5ec
